@@ -2,8 +2,6 @@
 
 Privacy Policy for Blink To Fly
 
-Last updated: [date]
-
 This Privacy Policy explains how the mobile game Blink To Fly (“the App”) handles user data.
 
 1. General Information
@@ -74,25 +72,11 @@ Any changes will be published on this page.
 
 If you have any questions about this Privacy Policy, please contact:
 
-Email: 
-𝑦
-𝑜
-𝑢
-𝑟
-𝑒
-𝑚
-𝑎
-𝑖
-𝑙
-youremail
+Email: romankubov.qa@yandex.ru
 
 ✅ ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ (RU)
 
 Политика конфиденциальности игры Blink To Fly
-
-Дата обновления: 
-дата
-дата
 
 1. Общая информация
 
@@ -162,14 +146,7 @@ Blink To Fly — это мобильная игра, в которой упра�
 
 По вопросам, связанным с политикой конфиденциальности, свяжитесь с нами:
 
-Email: 
-твой
-𝑒
-𝑚
-𝑎
-𝑖
-𝑙
-твойemail
+Email: romankubov.qa@yandex.ru
 
 # Blink to Fly 🐦✨
 

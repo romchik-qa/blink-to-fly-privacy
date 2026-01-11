@@ -1,3 +1,176 @@
+✅ PRIVACY POLICY (EN) — Google Play Safe
+
+Privacy Policy for Blink To Fly
+
+Last updated: [date]
+
+This Privacy Policy explains how the mobile game Blink To Fly (“the App”) handles user data.
+
+1. General Information
+
+Blink To Fly is a casual mobile game that can be controlled either by tapping the screen or by blinking eyes using the device camera.
+
+The App does not require user registration and does not collect personal identification data.
+
+2. Camera Usage
+
+The App may use the device camera only if the user selects the “Blink control” mode.
+
+Camera data is processed in real time and only on the user’s device
+
+Images or video are not recorded
+
+Images or video are not stored
+
+Images or video are not transmitted to servers or third parties
+
+Camera data is used exclusively for gameplay purposes
+
+If the user selects the “Tap control” mode, the camera is not used.
+
+3. Advertising
+
+The App displays advertisements provided by third-party advertising services, including Yandex Ads.
+
+Advertising SDKs may collect non-personal technical information, such as:
+
+device type
+
+operating system version
+
+advertising identifiers (if available)
+
+This data is used solely for:
+
+displaying ads
+
+measuring ad performance
+
+The App does not control how third-party advertising services process data.
+Please refer to the privacy policies of the respective advertising providers for more details.
+
+4. Data Collection and Storage
+
+The App:
+
+does not collect personal data
+
+does not store personal data
+
+does not share personal data with third parties
+
+Game progress and settings are stored locally on the user’s device only.
+
+5. Children’s Privacy
+
+The App does not knowingly collect personal data from children under the age of 13.
+
+6. Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+Any changes will be published on this page.
+
+7. Contact
+
+If you have any questions about this Privacy Policy, please contact:
+
+Email: 
+𝑦
+𝑜
+𝑢
+𝑟
+𝑒
+𝑚
+𝑎
+𝑖
+𝑙
+youremail
+
+✅ ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ (RU)
+
+Политика конфиденциальности игры Blink To Fly
+
+Дата обновления: 
+дата
+дата
+
+1. Общая информация
+
+Blink To Fly — это мобильная игра, в которой управление осуществляется нажатием на экран или морганием глаз с использованием камеры устройства.
+
+Приложение не требует регистрации и не собирает персональные данные пользователей.
+
+2. Использование камеры
+
+Камера устройства используется только при выборе режима управления “Глазами”.
+
+Данные камеры обрабатываются в реальном времени и только на устройстве
+
+Фото и видео не записываются
+
+Фото и видео не сохраняются
+
+Фото и видео не передаются третьим лицам
+
+Камера используется исключительно для игрового процесса
+
+При выборе режима “Пальцем” камера не используется.
+
+3. Реклама
+
+В приложении отображается реклама, предоставляемая сторонними рекламными сервисами, включая Yandex Ads.
+
+Рекламные SDK могут собирать неперсональные технические данные, такие как:
+
+тип устройства
+
+версия операционной системы
+
+рекламные идентификаторы (если доступны)
+
+Эти данные используются только для:
+
+показа рекламы
+
+анализа эффективности рекламы
+
+Приложение не контролирует обработку данных сторонними рекламными сервисами.
+Рекомендуется ознакомиться с их политиками конфиденциальности.
+
+4. Сбор и хранение данных
+
+Приложение:
+
+не собирает персональные данные
+
+не хранит персональные данные
+
+не передаёт персональные данные третьим лицам
+
+Игровой прогресс и настройки сохраняются только локально на устройстве пользователя.
+
+5. Дети
+
+Приложение не предназначено для сбора персональных данных детей младше 13 лет.
+
+6. Изменения политики
+
+Политика конфиденциальности может обновляться.
+Актуальная версия всегда доступна по данному URL.
+
+7. Контакты
+
+По вопросам, связанным с политикой конфиденциальности, свяжитесь с нами:
+
+Email: 
+твой
+𝑒
+𝑚
+𝑎
+𝑖
+𝑙
+твойemail
+
 # Blink to Fly 🐦✨
 
 **Blink to Fly** — это захватывающая аркадная игра для Android, в которой вы управляете полетом птицы с помощью... собственных глаз! 

@@ -1,6 +1,4 @@
-✅ PRIVACY POLICY (EN) — Google Play Safe
-
-Privacy Policy for Blink To Fly
+✅ PRIVACY POLICY (EN)
 
 This Privacy Policy explains how the mobile game Blink To Fly (“the App”) handles user data.
 
@@ -75,8 +73,6 @@ If you have any questions about this Privacy Policy, please contact:
 Email: romankubov.qa@yandex.ru
 
 ✅ ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ (RU)
-
-Политика конфиденциальности игры Blink To Fly
 
 1. Общая информация
 
@@ -180,14 +176,7 @@ Email: romankubov.qa@yandex.ru
 
 ---
 
-## 📄 Конфиденциальность
-
-Мы серьезно относимся к вашим данным. Ознакомиться с полной политикой конфиденциальности можно здесь:
-[Политика конфиденциальности Blink to Fly](https://github.com/romchik-qa/Blink_to_Fly/releases)
-
----
-
 ## 📥 Установка
 
-Вы можете скачать актуальную версию игры в разделе [Releases Blink to Fly](https://github.com/romchik-qa/Blink_to_Fly/releases)
+Вы можете скачать актуальную версию игры в разделе [Blink to Fly Releases](https://github.com/romchik-qa/Blink_to_Fly/releases)
 Просто скачайте `.apk` файл и установите его на свой Android-смартфон.

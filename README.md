@@ -179,7 +179,7 @@ This project demonstrates the capabilities of modern computer vision technologie
 2. **Tap Control**  
    Classic tap-based gameplay for players who prefer traditional controls.
 
-### 🚀 Features (Version 1.1.0)
+### 🚀 Features (Version 1.2.1)
 
 - Separate high scores for each control mode  
 - Adaptive UI for different screen sizes  
@@ -209,7 +209,7 @@ This project demonstrates the capabilities of modern computer vision technologie
 2. **Пальцем**  
    Классический режим управления касанием экрана для комфортной и привычной игры.
 
-### 🚀 Особенности версии 1.1.0
+### 🚀 Особенности версии 1.2.1
 
 - Раздельные рекорды для каждого режима управления  
 - Адаптивный интерфейс для разных экранов  
